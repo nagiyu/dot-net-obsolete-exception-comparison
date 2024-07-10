@@ -1,0 +1,1 @@
+# dot-net-obsolete-exception-comparison
