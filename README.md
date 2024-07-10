@@ -1,1 +1,1 @@
-# dot-net-obsolete-exception-comparison
+# DotNetObsoleteExceptionComparison
